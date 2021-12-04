@@ -180,6 +180,12 @@ header {
   .view-row {
     flex-direction: column;
   }
+  .view-row-image {
+    width: 100%;
+  }
+  .view-row-detail {
+    padding: 30px 0;
+  }
   .mobile-row-reverse {
     flex-direction: column-reverse;
   }
